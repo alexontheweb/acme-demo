@@ -35,7 +35,7 @@ Underlying core layer data was intentionally generated to show the patterns belo
 - Comparing experimental *Influencers* channel with more traditional *Google Ads* and *Facebook Ads* **it stands out that *Influencers* looks promising**: it gives traffic with much better CR (x3-x4 times better) with comparable CAC.
 - Between *Google Ads* and *Facebook Ads*, ***Facebook Ads* needs additional attention** since it performs worse on every metric, with CAC being the worst among all channels (x1.5-x3 times worse).
 
-# Assumptions:
+# Assumptions
  - user journey begins and ends on the same day
  - one visitor makes only one purchase
  - no returning visitors, they either make a purchase or drop off somewhere along the funnel and never come back
