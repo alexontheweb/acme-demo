@@ -1,3 +1,5 @@
+This is a demo project to showcase Looker Studio dashboard based on Python-processed data stored in Google Sheets
+
 # Background
 **ACME Inc.** is a fictional company that develops a new SaaS B2C product. To refine its marketing strategy before the global launch the company decided to start with a soft launch: it would employ only three marketing channels to drive traffic to a simple landing page, which serves as an entry point to a sign-up process and ends with a service subscription purchase.
 
