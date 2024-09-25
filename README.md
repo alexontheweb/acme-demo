@@ -5,9 +5,7 @@ This is a demo project to showcase Looker Studio dashboard based on Python-proce
 
 Below is a representation of the traffic journey and data sources (marketing channels, website analytics, CRM).
 
-![user_journey](https://github.com/user-attachments/assets/a2ff0e7f-6caa-45ae-b8b8-c1667716cd0d)
-
-
+![user_journey](https://github.com/user-attachments/assets/1a77fe80-c70b-4e2c-aa5c-e931f0297961)
 
 # Deliverables
 The deliverable of this project is a self-service solution in the form of a **Looker Studio dashboard** that would help the company's marketing team to analyze sales funnel efficiency and compare traffic sources' performance. 
@@ -16,7 +14,7 @@ The deliverable of this project is a self-service solution in the form of a **Lo
 
 The dashboard's data source is a simplified **data warehouse** that consists of two layers: the core layer and the data mart layer, with Google Sheets as a storage backbone.
 
-![dwh_scheme](https://github.com/user-attachments/assets/c3b21016-7c89-4b28-8284-8d9e953cd428)
+![dwh_scheme](https://github.com/user-attachments/assets/3f3e785f-e96e-46b3-8cda-3cc948defd19)
 
 Data processing handled by a **Python script** hosted on Google Colab.
 
