@@ -15,7 +15,7 @@ The deliverable of this project is a self-service solution in the form of a **Lo
 
 The dashboard's data source is a simplified **data warehouse** that consists of two layers: the core layer and the data mart layer, with Google Sheets as a storage backbone.
 
-![BalsamiqWireframes_VrldezXpYy](https://github.com/user-attachments/assets/e31128f9-ec1e-4512-a4ab-4e50a93b383a)
+![dwh_scheme](https://github.com/user-attachments/assets/c3b21016-7c89-4b28-8284-8d9e953cd428)
 
 Data processing handled by a **Python script** hosted on Google Colab.
 
