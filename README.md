@@ -5,7 +5,8 @@ This is a demo project to showcase Looker Studio dashboard based on Python-proce
 
 Below is a representation of the traffic journey and data sources (marketing channels, website analytics, CRM).
 
-![BalsamiqWireframes_JF2vnM0pY5](https://github.com/user-attachments/assets/f94853bc-38fd-4998-b7b5-c19883e63d06)
+![user_journey](https://github.com/user-attachments/assets/a2ff0e7f-6caa-45ae-b8b8-c1667716cd0d)
+
 
 
 # Deliverables
